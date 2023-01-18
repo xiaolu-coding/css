@@ -22,7 +22,7 @@
       <h3>Bandwidth responsive web design.</h3>
       <p>
         Twitter stock equity vesting period learning curve launch party pitch
-        innovator series A financing churn rate handshake.
+        innovator series A financing churn rate handshake .
       </p>
       <button>Read more</button>
     </div>
